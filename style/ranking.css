@@ -159,3 +159,15 @@ thead {
 .tbody_anima {
     animation: scroll 35s ease infinite;
 }  
+.go_left {
+    position: absolute;
+    width: 3vw;
+    height: 3vw;
+    background-color: #a0a5a8;
+    top:45%;
+    right: 0;
+    border-radius: 50%;
+    color: #ccc;
+    text-align: center;
+    padding-top: 1vw;
+}
