@@ -13,7 +13,7 @@ async function fetchWithTimeout(resource, options = {}) {
 async function getData() 
 {
     try {
-        const base = 'https://docs.google.com/spreadsheets/d/1FlHBhreAQ5ANk4wPLTGNdqjfPvhDk0Cf_Dv11jf0jzA/gviz/tq?'
+        const base = 'https://docs.google.com/spreadsheets/d/1CwnCV17fwjXgAHgsXweYciIzrKzv0quZ_vTx767IHzU/gviz/tq?'
         const output = document.querySelector('.output')
         
         const query = encodeURIComponent('Select A,B,C LIMIT 22 ')
