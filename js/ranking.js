@@ -53,7 +53,7 @@ async function getData()
                     
                 })
             })
-            // getData()
+            getData()
         // })
         
     } catch (error) {
