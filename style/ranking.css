@@ -171,3 +171,6 @@ thead {
     text-align: center;
     padding-top: 1vw;
 }
+.dNone {
+    display: none;
+}

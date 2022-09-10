@@ -44,6 +44,7 @@ async function getData()
             data.table.rows.forEach((main)=>
             {
                 const container = document.createElement('tr');
+
                 tbody.append(container);
                 main.c.forEach((ele)=>
                 {
